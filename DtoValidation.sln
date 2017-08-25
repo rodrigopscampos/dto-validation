@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoValidation", "DtoValidator\DtoValidation.csproj", "{F7E8DD47-014F-434D-908C-642035E59528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoValidation.Tests", "DtoValidation.Tests\DtoValidation.Tests.csproj", "{B095BEF6-13A6-4292-AC68-828ED6798202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoValidation.Example", "DtoValidation.Example\DtoValidation.Example.csproj", "{136C306E-C863-4C6B-849F-6E645BB20A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E8DD47-014F-434D-908C-642035E59528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E8DD47-014F-434D-908C-642035E59528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E8DD47-014F-434D-908C-642035E59528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E8DD47-014F-434D-908C-642035E59528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B095BEF6-13A6-4292-AC68-828ED6798202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B095BEF6-13A6-4292-AC68-828ED6798202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B095BEF6-13A6-4292-AC68-828ED6798202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B095BEF6-13A6-4292-AC68-828ED6798202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136C306E-C863-4C6B-849F-6E645BB20A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136C306E-C863-4C6B-849F-6E645BB20A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136C306E-C863-4C6B-849F-6E645BB20A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136C306E-C863-4C6B-849F-6E645BB20A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
